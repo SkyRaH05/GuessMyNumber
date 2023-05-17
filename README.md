@@ -1,5 +1,7 @@
 # GuessMyNumber
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ca17f38-3108-4ed7-9498-15c0e73dc1ed/deploy-status)](https://app.netlify.com/sites/guess-my-number-258/deploys)
+
 <h2> Fun Game  </h2>
 
 
